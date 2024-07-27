@@ -299,13 +299,13 @@ export const socials = [
     id: "0",
     title: "Discord",
     iconUrl: discordBlack,
-    url: "#",
+    url: "https://github.com/vjeenesh",
   },
   {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://twitter.com/JineshVaan",
   },
   {
     id: "2",
