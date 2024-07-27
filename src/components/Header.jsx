@@ -13,7 +13,7 @@ const Header = () => {
   const [openNavigation, setOpenNavigation] = useState(false);
 
   function toggleNavigation() {
-    openNavigation ? disablePageScroll() : enablePageScroll();
+    openNavigation ? enablePageScroll() : disablePageScroll();
     setOpenNavigation((prevState) => !prevState);
   }
 
